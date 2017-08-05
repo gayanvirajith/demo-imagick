@@ -23,5 +23,5 @@ You can run the script as follows
 ### Assumptions
 - User/Client code may specify the convert command without image-magic 
 installation path.
-- If this convert command is used for batch processing
+- If the convert command is used for batch processing
 you may need consider line number `45` in `ShellCommand.php`. 
