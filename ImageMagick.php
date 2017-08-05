@@ -1,5 +1,8 @@
 <?php
 
+/**
+ * Class ImageMagick
+ */
 class ImageMagick
 {
     protected $executablePath;
